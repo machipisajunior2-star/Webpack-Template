@@ -9,8 +9,7 @@
 - babel-loader, @babel/core, & @babel/preset-env: Transpiles modern ES6+ JavaScript down to backward-compatible ES5 code so your app runs smoothly across older browsers.
 
 
-## Getting Started :
-# Getting Started with Webpack
+# Getting Started with Webpack:
 
 This project was bootstrapped with [Webpack](https://webpack.js.org/guides/installation/).
 
