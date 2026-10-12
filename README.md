@@ -21,6 +21,7 @@ VS code editor and gitbash
  If you like to set up this repository please follow the steps:
  - Click on the repository name 
  - Fork it /clone it 
+ or
  - Use as a Template when creating a repisitory
 
 In the project directory, you can run:
