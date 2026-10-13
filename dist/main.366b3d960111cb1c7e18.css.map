@@ -1,0 +1,1 @@
+{"version":3,"file":"main.366b3d960111cb1c7e18.css","mappings":";;;AAAA;EACI;EACA;EACA;EACA;AACJ,C","sources":["webpack://Webpack-Template/./src/styling/main.scss"],"sourcesContent":["body {\r\n    text-align: center;\r\n    height: 100vh;\r\n    width: 100vw;\r\n    background-color: aqua;\r\n}"],"names":[],"sourceRoot":""}
